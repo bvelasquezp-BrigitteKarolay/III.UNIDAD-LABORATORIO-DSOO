@@ -1,0 +1,31 @@
+Ejercito 1: Inglaterra
+Cantidad total: 10
+Espadachines: 3
+Arqueros: 1
+Caballeros: 4
+Lanceros: 2
+
+Ejercito 2: Francia
+Cantidad total: 3
+Espadachines: 1
+Arqueros: 0
+Caballeros: 1
+Lanceros: 1
+
+Suma niveles vida - Inglaterra: 85  Francia: 23
+Inglaterra: 78.70% de probabilidad de victoria
+Francia: 21.30% de probabilidad de victoria
+Aleatorio generado: 96.61
+Ganador segun experimento: Francia
+GENERAR -> Tue Nov 25 19:39:22 GMT-05:00 2025 -> Aleatorio: 52.04 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:23 GMT-05:00 2025 -> Aleatorio: 81.27 Ganador: Francia
+GENERAR -> Tue Nov 25 19:39:23 GMT-05:00 2025 -> Aleatorio: 41.14 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:25 GMT-05:00 2025 -> Aleatorio: 41.4 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:25 GMT-05:00 2025 -> Aleatorio: 39.86 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:25 GMT-05:00 2025 -> Aleatorio: 9.09 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:25 GMT-05:00 2025 -> Aleatorio: 59.67 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:25 GMT-05:00 2025 -> Aleatorio: 95.66 Ganador: Francia
+GENERAR -> Tue Nov 25 19:39:26 GMT-05:00 2025 -> Aleatorio: 41.32 Ganador: Inglaterra
+GENERAR -> Tue Nov 25 19:39:26 GMT-05:00 2025 -> Aleatorio: 86.59 Ganador: Francia
+GENERAR -> Tue Nov 25 19:39:53 GMT-05:00 2025 -> Aleatorio: 85.02 Ganador: Francia
+GENERAR -> Tue Nov 25 19:45:41 GMT-05:00 2025 -> Aleatorio: 37.26 Ganador: Inglaterra

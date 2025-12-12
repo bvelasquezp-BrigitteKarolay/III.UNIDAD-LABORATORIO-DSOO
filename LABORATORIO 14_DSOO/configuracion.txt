@@ -1,0 +1,6 @@
+CONFIGURACION JUEGO
+Reino1=Inglaterra
+Reino2=Francia
+ProbabilidadReino1=78.7
+ProbabilidadReino2=21.3
+Tablero=10x10

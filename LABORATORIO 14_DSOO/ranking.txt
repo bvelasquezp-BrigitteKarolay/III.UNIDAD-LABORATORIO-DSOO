@@ -1,0 +1,5 @@
+RANKING EJERCITO 1 (POR VIDA):
+ EjemploSoldado1 [Vida=85]
+
+RANKING EJERCITO 2 (POR VIDA):
+ EjemploSoldado2 [Vida=23]
